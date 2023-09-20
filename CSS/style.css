@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(143, 143, 143) ;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    color: red;
+    font-size: 25px;
+}
+
+.F1 {
+    background-color: rgb(61, 61, 61);
+}
+
+main {
+    background-color: rgb(0, 0, 0);
+}
+
+.F2 {
+     color: rgb(255, 255, 255)
+}
+
+span {
+    color: rgb(233, 233, 233);
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+.F3 {
+    background-color: rgb(0, 255, 26);
+    color: rgb(0, 234, 255) ;
+}
+
+.F4 {
+    background-color: rgb(160, 0, 234);
+}
+
+footer p {
+    color: rgb(0, 234, 255);
+}
+
+footer {
+    background-color: rgb(160, 0, 234);
+}
+
+footer span {
+    color: rgb(0, 0, 255);
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    margin: 10px;
+    border: 7px dotted rgb(143, 143, 143);
+}
